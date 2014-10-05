@@ -1,0 +1,7 @@
+This is a simple project, which provides an example of using 3-dimensional arrays in OpenCL.
+As it is, it simply returns the values of the indices in the output arrays.
+Uncommenting one line in the kernel will allow the user to process the input arrays on
+the OpenCL device, and bring back the result.
+
+This example is intended as a starting point for building more complex projects, for example 
+3-dimensional lattice simulations.
